@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utku</h1>
-<h3 align="center">I'm Hüseyin Utku Altunok, a 23-year-old software enthusiast dedicated to continuous learning and self-improvement. After completing a 3-month backend training course on Patika.dev, I became even more passionate about software development. Currently, I'm pursuing a 3-month frontend training to expand my knowledge in web technologies. My career goal is to continuously improve and create innovative solutions using the latest technologies. I value collaboration, problem-solving, and staying updated with industry trends. I'm highly motivated and strive for success in everything I do.</h3>
+<h3 align="center">I'm Hüseyin Utku Altunok, a 23-year-old software enthusiast dedicated to continuous learning and self-improvement.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
